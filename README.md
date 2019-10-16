@@ -17,4 +17,4 @@
 - Make a PR and Ask for Review
 
 ## Resources
-- [List of Important Algorithms for Competetive Programming](https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/)
+- [List of Important Algorithms for Competitive Programming](https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/)

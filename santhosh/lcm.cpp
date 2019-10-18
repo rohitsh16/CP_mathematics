@@ -14,7 +14,8 @@ public : int gcd(int a, int b){
 // Function to return LCM of two numbers 
 int lcm(int a, int b) 
 { 
-	return (a*b)/gcd(a, b); 
+	return (a*b)/gcd(a, b);
+	cout<<"returned";
 } 
 } ; 
 // Driver program to test above function 
